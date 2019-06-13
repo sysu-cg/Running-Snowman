@@ -5,7 +5,7 @@
 
 + 选择【VC++目录】，在【包含目录】中添加`./OpenGL/Includes;./include`
 + 选择【VC++目录】，在【库目录】中添加`./OpenGL/Libs`
-+ 选择【链接器】，选择【输入】，在【附加依赖项】中添加`opengl32.lib;glfw3.lib`
++ 选择【链接器】，选择【输入】，在【附加依赖项】中添加`opengl32.lib;glfw3.lib;assimp.lib`
 
 
 
